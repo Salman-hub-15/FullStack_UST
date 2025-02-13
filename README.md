@@ -1,2 +1,2 @@
 # FullStack_UST
-Full Stack Web DEvelopment
+Full Stack Web Development
